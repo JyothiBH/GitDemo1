@@ -11,12 +11,12 @@ public class JavaSample {
 	
 	public static void testcase1()
 	{
-		
+	// testing1
 	}
 	
 	public static void testcase2()
 	{
-	//testing	
+	// testing2	
 	}
 
 }
