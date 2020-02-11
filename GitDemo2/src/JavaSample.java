@@ -6,6 +6,7 @@ public class JavaSample {
 		//Code written by Jyothi
 		testcase1();
 		testcase2();
+		testcase3();
 		
 	}
 	
@@ -17,6 +18,11 @@ public class JavaSample {
 	public static void testcase2()
 	{
 	// testing2	
+	}
+	
+	public static void testcase3()
+	{
+		
 	}
 
 }
